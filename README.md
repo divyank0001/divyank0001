@@ -1,75 +1,88 @@
-## Hi there 👋
-
-<!-<h1 align="center">Hi 👋, I'm Divyank Chauhan</h1>
-<h3 align="center">Data Analyst | Data Scientist | Full-Stack Developer</h3>
+<h1 align="center">⚡ Divyank Chauhan ⚡</h1>
+<h3 align="center">Data Analyst | AI Developer | Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
-</p>
-
----
-
-### 🧠 About Me
-
-- 🔭 I’m currently working on **AI & Data Analytics Projects**
-- 🌱 I’m learning **Deep Learning, RAG Systems & Generative AI**
-- 👯 I’m looking to collaborate on **Data Science & AI Projects**
-- 💬 Ask me about **Python | Tableau | Power BI | Django | ML | Deep Learning**
-- 📫 How to reach me: **chauhandivyank818@gmail.com**
-- 📄 Know about my experiences: [My Portfolio](#)
-
----
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,bootstrap,react,django,git,github,mysql,tableau,pandas,numpy,matplotlib,pytorch,tensorflow,vscode&theme=light" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyankchauhan&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyankchauhan&theme=radical" height="150"/>
-</p>
-
----
-
-### 🚀 Projects Showcase
-
-| Project Name | Description | Tech Used | Link |
-|---------------|--------------|------------|------|
-| **AI Chatbot (RAG)** | RAG system over PDFs using Groq + FAISS + Streamlit | Python, FAISS, Groq | [🔗 View Project](#) |
-| **Fashion MNIST CNN** | Transfer Learning on Fashion-MNIST | TensorFlow, Keras | [🔗 View Project](#) |
-| **Data Dashboard** | Power BI dashboard for business analytics | Power BI, Excel | [🔗 View Project](#) |
-| **Portfolio Website** | Responsive web portfolio using Django | HTML, CSS, JS, Django | [🔗 View Project](#) |
-
----
-
-
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/divyankchauhan2309" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:chauhandivyank818@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
   <a href="https://github.com/divyank0001">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=650&lines=Data+Analytics+|+Deep+Learning+|+AI+Projects;Transforming+Data+into+Decisions;Exploring+Generative+AI+and+Neural+Networks"/>
   </a>
 </p>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
--
-**divyank0001/divyank0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+
+### 🧠 About Me  
+
+- 🔭 Working on **AI Chatbots (RAG)** & **Deep Learning Models**  
+- 💡 Passionate about **Data Analytics, AI, and Neural Networks**  
+- ⚙️ Skilled in **Python | Tableau | Power BI | Django | TensorFlow | Pandas**  
+- 📫 Reach me: **chauhandivyank818@gmail.com**
+
+---
+
+### ⚙️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,bootstrap,django,git,github,mysql,tableau,powerbi,pandas,numpy,matplotlib,seaborn,tensorflow,pytorch,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Specialized In:</b>  
+  <br>🧠 Machine Learning | 🤖 Deep Learning | 📊 Data Analytics | 📈 Business Intelligence
+</p>
 
 
+---
+
+### 📊 Data & AI Projects  
+
+| 🔥 Project | 💡 Description | 🛠️ Stack |
+|-------------|----------------|----------|
+| 🤖 **AI RAG Chatbot** | PDF-based chatbot using FAISS + Groq | Python, LangChain, Streamlit |
+| 🧩 **CNN Classifier** | Fashion-MNIST with Transfer Learning | TensorFlow, Keras |
+| 📈 **Business Dashboard** | Retail analytics with KPI insights | Power BI, Excel |
+| 🌐 **Portfolio Website** | Responsive full-stack site | Django, HTML, CSS, JS |
+
+---
+
+### 📈 Analytics in Motion  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="400"/>
+</p>
+
+> *“Where data meets visualization — insight begins.”*
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyank0001&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyank0001&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+### 🌍 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/divyankchauhan2309" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="mailto:chauhandivyank818@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://github.com/divyank0001"><img src="https://skillicons.dev/icons?i=github"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=divyank0001&style=for-the-badge&color=00FFFF"/>
+</p>
+
+<p align="center">
+  <b style="color:#00FFFF;">"Turning Data into Intelligent Insights ⚡"</b>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="400" />
+</p>
+
+<p align="center">
+  <b>“Building Data-Driven Futures with AI 💫”</b>
+</p>
